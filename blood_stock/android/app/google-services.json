@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "76416177321",
+    "project_id": "bloodstock-153d2",
+    "storage_bucket": "bloodstock-153d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:76416177321:android:abb03e6975c19c279885b8",
+        "android_client_info": {
+          "package_name": "com.example.blood_stock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "76416177321-va4lmor9asie0rfpu6cp3eh0sijjhst3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.blood_stock",
+            "certificate_hash": "f7ed50bb0011a265f6e259821b202ea4464242c7"
+          }
+        },
+        {
+          "client_id": "76416177321-n32lha1f2j3oc816sfrd8rcvora8b4ag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRneF5jz3Nj3OfBPiMX7ott-GNieUuCKI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "76416177321-n32lha1f2j3oc816sfrd8rcvora8b4ag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

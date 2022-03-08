@@ -1,0 +1,26 @@
+name: blood_stock_package
+description: A new Flutter package project.
+version: 0.0.1
+publish_to: "none"
+
+environment:
+  sdk: ">=2.15.1 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  common_package:
+    path: ../common
+  shared_preferences: ^2.0.12
+  firebase_core: ^1.12.0
+  firebase_auth: ^1.1.1
+  geolocator: ^8.0.5
+  carousel_slider: ^4.0.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+
+flutter:
